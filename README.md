@@ -1,7 +1,7 @@
 # Hello, I'm @DjiboutianMale...
 ## Interests
 - Computer Science/Engineering
-- Mathmatics
+- Mathematics
 - Cyber Security/IT
 - Music
 ## How to reach me

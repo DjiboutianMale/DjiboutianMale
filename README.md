@@ -5,4 +5,4 @@
 - Cyber Security/IT
 - Music
 ## How to reach me
-- luke.xnor@gmail.org
+- luke.xnor@gmail.com

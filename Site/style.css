@@ -1,0 +1,124 @@
+html {
+    background-color: whitesmoke;
+}
+
+h1 {
+    padding-top: 2vw;
+    margin-bottom: -3vw;
+}
+
+h3 {
+    font-size: 3vw;
+}
+
+h4 {
+    font-size: 2vw;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+p1 {
+    font-size: 1.5vw;
+    margin-bottom: 10vw;
+}
+
+.mainpage {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+ 
+}
+
+.titlediv {
+    height: 15vw;
+    margin-top: -3vw;
+    margin-right: -1.1vw;
+    margin-left: -1.1vw;
+    background-color: thistle;
+    background-image: url(../Assets/b&w_landscape.jpg);
+    background-position: center;
+    text-align: center;
+    font-size:  2vw;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* .bg1 {
+    object-fit: contain;
+    position: relative;
+    object-position: center;
+    width: 100vw;
+    z-index: -5;
+    bottom: 25vw;
+} */
+
+
+.img1 {
+    padding: 2vw;
+    padding-top: 5vw;
+    padding-right: 3%;
+    float: right;
+    width: 60%;
+    margin-right: auto;
+    max-width: 1000px;
+    height: auto;
+}
+
+.img2 {
+    padding: 2vw;
+    padding-top: 5vw;
+    padding-right: 3%;
+    float: right;
+    width: 17%;
+    margin-right: auto;
+    max-width: 200px;
+    height: auto;
+}
+
+.img3 {
+    padding: 2vw;
+    padding-top: 5vw;
+    padding-right: 3%;
+    float: right;
+    width: 17%;
+    margin-right: auto;
+    max-width: 200px;
+    height: auto;
+}
+
+.tabletitle {
+    text-align: center;
+}
+
+.tablelist {
+    padding-left: 4.5vw;
+}
+
+.tableofcontents {
+    margin-top: 5vw;
+    margin-bottom: 2vw;
+    margin-left: 0.9vw;
+    border: solid steelblue;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    width: 20vw;
+}
+
+.pagebody {
+    padding-left: 1vw;
+}
+
+.endpage {
+    margin-top: 10vw;
+    margin-right: -1.1vw;
+    margin-left: -1.1vw;
+    margin-bottom: -1.1vw;
+    border-top: solid steelblue;
+    background-color: thistle;
+    height: 20vw;
+    padding-top: 5vw;
+    font-size: 1.5vw;
+}
